@@ -1,3 +1,3 @@
-Hello GPT Edlich!
+Edlich
 sky
 ocean
